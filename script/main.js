@@ -5,7 +5,7 @@ scouts.forEach(scout => {
     card.className = 'card'
     card.style.width = '18rem'
     // card.style.height = '36rem'
-    card.innerHTML = `<img src="${scout.img}" class="card-img-top" alt="...">
+    card.innerHTML = `<img src="${scout.img}" class="card-img-top papasFritas" alt="...">
     <div class="card-body">
       <h4 class="card-title">${scout.scoutName}</h4>
       <h5 class="">${scout.japaneseName}</h5>  
