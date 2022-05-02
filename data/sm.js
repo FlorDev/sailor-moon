@@ -6,7 +6,7 @@ let scouts = [
       englishName: "Serena Tsukino",
       affiliation: "Inner Sailor Scouts",
       guardianCat: true,
-      img: "https://i.pinimg.com/564x/be/f0/12/bef0125f837f501f4cd6e6f583326769.jpg"
+      img: "https://pbs.twimg.com/media/EpdWZiVXcAANC3f?format=jpg&name=medium"
     },
     {
       id: "2",
@@ -15,7 +15,7 @@ let scouts = [
       englishName: "Amy Anderson",
       affiliation: "Inner Sailor Scouts",
       guardianCat: false,
-      img: "https://i.pinimg.com/564x/0c/eb/91/0ceb913777d3ebd34f75e97b91973c7b.jpg"
+      img: "https://pbs.twimg.com/media/EpdWZ56XUAEL6cB?format=jpg&name=medium"
     },
     {
       id: "3",
@@ -24,7 +24,7 @@ let scouts = [
       englishName: "Raye Hino",
       affiliation: "Inner Sailor Scouts",
       guardianCat: false,
-      img: "https://i.pinimg.com/564x/cc/fb/f4/ccfbf45a5dabae27773cf866161944c2.jpg"
+      img: "https://pbs.twimg.com/media/EpdWaCbXMAQ2j22?format=jpg&name=medium"
     },
     {
       id: "4",
@@ -33,7 +33,7 @@ let scouts = [
       englishName: "Lita Kino",
       affiliation: "Inner Sailor Scouts",
       guardianCat: false,
-      img: "https://i.pinimg.com/564x/9d/e1/07/9de107184cd310a589f5cd98b9b9bde1.jpg"
+      img: "https://pbs.twimg.com/media/EpdWaVYW8AYhoBl?format=jpg&name=medium"
     },
     {
       id: "5",
@@ -42,7 +42,7 @@ let scouts = [
       englishName: "Mina Aino",
       affiliation: "Inner Sailor Scouts",
       guardianCat: true,
-      img: "https://i.pinimg.com/564x/d4/fd/b3/d4fdb35c32411544383df2758ec34d0c.jpg"
+      img: "https://pbs.twimg.com/media/EpdWatdXcAEb8tC?format=jpg&name=medium"
     }
     ,{
       id: "6",
@@ -51,7 +51,7 @@ let scouts = [
       englishName: "Amara Tenoh",
       affiliation: "Sailor Guardians Shadow Galactica",
       guardianCat: false,
-      img: "https://i.pinimg.com/564x/12/be/19/12be19efdf0d45dab4f0084f5d9c619c.jpg"
+      img: "https://pbs.twimg.com/media/EpdWbwuXMAItuh0?format=jpg&name=medium"
     }
     ,{
       id: "7",
@@ -59,16 +59,34 @@ let scouts = [
       japaneseName: "Minako Aino (愛野 美奈子)",
       englishName: "Mina Aino",
       affiliation: "Inner Sailor Scouts",
-      guardianCat: true,
-      img: "https://i.pinimg.com/564x/d4/fd/b3/d4fdb35c32411544383df2758ec34d0c.jpg"
+      guardianCat: false,
+      img: "https://pbs.twimg.com/media/EpdWbn7XIAIK8B3?format=jpg&name=medium"
     }
     ,{
       id: "8",
-      scoutName: "Sailor Venus",
+      scoutName: "Sailor Saturno",
       japaneseName: "Minako Aino (愛野 美奈子)",
       englishName: "Mina Aino",
       affiliation: "Inner Sailor Scouts",
-      guardianCat: true,
-      img: "https://i.pinimg.com/564x/d4/fd/b3/d4fdb35c32411544383df2758ec34d0c.jpg"
+      guardianCat: false,
+      img: "https://pbs.twimg.com/media/EpdWcDzWwAILNAj?format=jpg&name=medium"
+    }
+    ,{
+      id: "9",
+      scoutName: "Sailor Saturno",
+      japaneseName: "Minako Aino (愛野 美奈子)",
+      englishName: "Mina Aino",
+      affiliation: "Inner Sailor Scouts",
+      guardianCat: false,
+      img: "https://pbs.twimg.com/media/EpdWbMLW4AY0NAo?format=jpg&name=medium"
+    }
+    ,{
+      id: "9",
+      scoutName: "Sailor ChibiMoon",
+      japaneseName: "Minako Aino (愛野 美奈子)",
+      englishName: "Mina Aino",
+      affiliation: "Inner Sailor Scouts",
+      guardianCat: false,
+      img: "https://pbs.twimg.com/media/EpdWbMLW4AY0NAo?format=jpg&name=medium"
     }
   ];
