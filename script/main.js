@@ -18,3 +18,5 @@ scouts.forEach(scout => {
 })  
 
 
+let affi = scouts[0].affiliation
+
